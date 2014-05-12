@@ -1,4 +1,4 @@
-codeigniter_2
+Code Igniter
 =============
 
-My first commit.
+I am taking the time to learn this great PHP framework.
